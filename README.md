@@ -1,4 +1,4 @@
-Number GuessingGame In Java
+Number Guessing Game In Java
 
 This is a simple console-based Number Guessing Game written in Java. The game generates a random number within a specified range (e.g., 1 to 100), and the player must guess the number within a limited number of attempts. After each guess, the program provides feedback indicating whether the guess was too high, too low, or correct. The game also tracks the number of attempts taken and offers the option to replay after each round.
 
